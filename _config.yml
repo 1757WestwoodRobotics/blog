@@ -13,7 +13,7 @@ author: Westwood Robotics
 description: Follow Westwood Robotics' latest updates! Westwood Robotics specializes
   in STEM and robotics education for all children.
 baseurl: "/blog"
-url: https://whsrobotics.org
+url: https://whsrobotics.org/blog
 instagram_username: wwrobotics1757
 twitter_username: wwrobotics1757
 markdown: kramdown
