@@ -6,6 +6,9 @@ layout: post
 ---
 
 Amazing demo with our <a href="https://twitter.com/hashtag/firststeamworks?src=hash">#firststeamworks</a> robot at the Thurston Middle School!
+
 ![MiddleSchoolDemo2017.jpg](/uploads/MiddleSchoolDemo2017.jpg)
+
 ![MiddleSchoolDemo2017-1.jpg](/uploads/MiddleSchoolDemo2017-1.jpg)
+
 ![MiddleSchoolDemo2017-2.jpg](/uploads/MiddleSchoolDemo2017-2.jpg)
