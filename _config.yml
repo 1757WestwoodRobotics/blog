@@ -14,7 +14,7 @@ description: Follow Westwood Robotics' latest updates! Westwood Robotics special
   in STEM and robotics education for all children.
 baseurl: "/blog"
 url: https://whsrobotics.org
-instagram_username: wwrobotics
+instagram_username: wwrobotics1757
 twitter_username: wwrobotics1757
 markdown: kramdown
 theme: minima
