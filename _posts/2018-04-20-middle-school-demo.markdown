@@ -1,6 +1,7 @@
 ---
 title: Middle School Demo
 date: 2018-04-20 18:17:00 -04:00
+author: Michael Serratore
 ---
 
 Amazing demo with our <a href="https://twitter.com/hashtag/firststeamworks?src=hash">#firststeamworks</a> robot at the Thurston Middle School!
