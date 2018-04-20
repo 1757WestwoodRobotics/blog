@@ -6,4 +6,4 @@ author: Larry Tseng
 
 Introducing our 2018 FIRST Power Up Reveal Video:
 
-![Video (https://img.youtube.com/vi/xb6FzU0gx8k/0.jpg)](https://youtu.be/xb6FzU0gx8k)
+[![Video](https://img.youtube.com/vi/xb6FzU0gx8k/0.jpg)](https://youtu.be/xb6FzU0gx8k "Robot Video")
