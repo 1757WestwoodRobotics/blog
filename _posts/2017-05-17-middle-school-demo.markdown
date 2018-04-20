@@ -1,6 +1,7 @@
 ---
 title: Middle School Demo
 date: 2017-05-17 18:17:00 -04:00
+published: false
 author: Michael Serratore
 ---
 
