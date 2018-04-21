@@ -1,6 +1,10 @@
 ---
 title: Middle School Demo
 date: 2017-05-17 18:17:00 -04:00
+tags:
+- demo
+- '2017'
+- tms
 author: Michael Serratore
 excerpt: Amazing demo with our FIRST Steamworks robot at the Thurston Middle School!
 image: "/uploads/MiddleSchoolDemo2017.jpg"
