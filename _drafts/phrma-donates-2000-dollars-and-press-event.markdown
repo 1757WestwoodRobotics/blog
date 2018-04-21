@@ -1,8 +1,6 @@
 ---
 title: PhRMA donates $2000 at Team Press Event
 date: 2018-04-23 09:00:00 -04:00
-categories:
-- '2018'
 tags:
 - press release
 - sponsor
