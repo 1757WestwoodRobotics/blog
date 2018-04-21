@@ -2,9 +2,6 @@
 title: Westwood Robotics
 timezone: America/New_York
 collections:
-  '2017':
-    title: '2017'
-    output: true
   posts:
     title: Posts
     output: true
