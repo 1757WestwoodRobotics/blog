@@ -25,7 +25,7 @@ layout: default
         </h3>
 
         {%- if post.image -%}
-          <img src="{{ post.image | relative_url }}" height="200px" width="auto">
+          <img style="object-fit: cover" src="{{ post.image | relative_url }}" height="auto" width="100%">
           <br>
         {%- endif -%}
 
