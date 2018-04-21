@@ -4,7 +4,11 @@ layout: nil
 [
   {%- for post in site.posts -%}
     {
-            "title" : "{{ post.title }}"
+      "title" : "{{ post.title }}",
+      "date" : "{{ post.date }}",
+      "link" : "{{ post.url }}",
+      "media" : "<img class='card-img-top' src='blog.whsrobotics.org/{{ post.image }}'>",
+      "content" : "{{ post.excerpt }}"
     } {%- if forloop.last -%}
       {%- else -%}
         ,
