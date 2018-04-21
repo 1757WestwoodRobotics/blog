@@ -5,8 +5,11 @@ collections:
   '2017':
     title: '2017'
     output: true
-  posts:
+  '2018':
     title: '2018'
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
