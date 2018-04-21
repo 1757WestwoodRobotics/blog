@@ -7,7 +7,7 @@ layout: nil
       "title" : "{{ post.title }}",
       "date" : "{{ post.date }}",
       "link" : "{{ post.url }}",
-      "media" : "<img class='card-img-top' src='{%- if post.image -%}blog.whsrobotics.org{{ post.image }}{%- else -%}favicon.ico{%- endif -%}'>",
+      "media" : "<img class='card-img-top' src='{%- if post.image -%}https://blog.whsrobotics.org{{ post.image }}{%- else -%}favicon.ico{%- endif -%}'>",
       "content" : "{{ post.excerpt | escape }}"
     } {%- if forloop.last -%}
       {%- else -%}
