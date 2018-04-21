@@ -1,19 +1,17 @@
 ---
 layout: nil
 ---
-
 [
-  {%- for post in site.posts -%}
+{%- for post in site.posts -%}
     {
       "title" : "{{ post.title }}",
       "date" : "{{ post.date }}",
       "link" : "{{ post.url }}",
-      "media" : "<img class='card-img-top' src='blog.whsrobotics.org/{{ post.image }}'>",
-      "content" : "{{ post.excerpt }}"
+      "media" : "<img class='card-img-top' src='{%- if post.image -%}blog.whsrobotics.org{{ post.image }}{%- else -%}favicon.ico{%- endif -%}'>",
+      "content" : "{{ post.excerpt | escape }}"
     } {%- if forloop.last -%}
       {%- else -%}
         ,
       {%- endif -%}
-
-   {%- endfor -%}
+{%- endfor -%}
 ]
