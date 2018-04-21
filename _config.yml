@@ -8,9 +8,6 @@ collections:
   '2018':
     title: '2018'
     output: true
-  posts2:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
