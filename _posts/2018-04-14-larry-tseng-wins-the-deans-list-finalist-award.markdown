@@ -1,7 +1,6 @@
 ---
 title: Captain Larry Tseng Wins the Dean's List Finalist Award
 date: 2018-04-14 21:24:00 -04:00
-published: false
 author: Michael Serratore
 image: "/uploads/DeanlistNE.jpg"
 excerpt: Captain Larry Tseng wins the New England Dean's List Finalist Award.
