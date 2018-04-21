@@ -4,6 +4,7 @@ date: 2017-09-24 17:20:00 -04:00
 tags:
 - '2017'
 - westwood day
+- demo
 author: Michael Serratore
 image: "/uploads/WestwoodDay-1.png"
 excerpt: Westwood Robotics giving a demo of our 2017 FRC robot.
