@@ -7,7 +7,7 @@ excerpt: Captain Larry Tseng wins the Dean's List Finalist Award at New England 
   Championships
 ---
 
-![DeanlistNE-ddd567.jpg](/uploads/DeanlistNE-ddd567.jpg)
+![DeanlistNE.jpg](/uploads/DeanlistNE.jpg)
 
 Captain of Westwood Robotics, Larry Tseng, won the New England Dean's List Finalist Award as a junior. He won this award by showing leadership, demonstrating the values of *FIRST*, and helping out the community through his team.
 
