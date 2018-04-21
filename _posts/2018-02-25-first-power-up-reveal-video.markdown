@@ -1,6 +1,9 @@
 ---
 title: 2018 FIRST Power Up Reveal Video
 date: 2018-02-25 16:55:00 -05:00
+tags:
+- reveal
+- '2018'
 author: Larry Tseng
 excerpt: Introducing our 2018 FIRST Power Up Reveal Video
 image: "/uploads/robotreveal2018.JPG"
