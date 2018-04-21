@@ -8,4 +8,4 @@ image: "/uploads/robotreveal2018.JPG"
 
 Introducing our 2018 FIRST Power Up Reveal Video (Click the Image Below to Play):
 
-![Video](/uploads/robotreveal2018.JPG)
+[![Video](/uploads/robotreveal2018.JPG)](https://youtu.be/xb6FzU0gx8k "Robot Video")
