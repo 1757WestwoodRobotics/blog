@@ -6,12 +6,12 @@ tags:
 - sponsor
 - '2018'
 author: Larry Tseng
-image: "/uploads/phrmavisit.jpeg"
+image: "/uploads/phrmavisitevent.jpg"
 excerpt: 'The Westwood High School Robotics Team is proud to receive the #STEMTalentPipeline
   grant from the Pharmaceutical Research and Manufacturers of America® (PhRMA)'
 ---
 
-![phrmavisit.jpeg](/uploads/phrmavisit.jpeg)
+![phrmavisit.jpeg](/uploads/phrmavisitevent.jpg)
 
 **WESTWOOD, MA** — The Westwood High School Robotics Team and Westwood Robotics, Inc., the official 501(c)(3) nonprofit organization of the team, is proud to receive a $2000 grant from the [Pharmaceutical Research and Manufacturers of America® (PhRMA)](https://www.phrma.org) today.
 
