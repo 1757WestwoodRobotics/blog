@@ -13,7 +13,7 @@ excerpt: 'The Westwood High School Robotics Team is proud to receive the #STEMTa
 
 ![phrmavisit.jpeg](/uploads/phrmavisitevent.jpg)
 
-**WESTWOOD, MA** — The Westwood High School Robotics Team and Westwood Robotics, Inc., the official 501(c)(3) nonprofit organization of the team, is proud to receive a $2000 grant from the [Pharmaceutical Research and Manufacturers of America® (PhRMA)](https://www.phrma.org) today.
+**WESTWOOD, MA** – The Westwood High School Robotics Team and Westwood Robotics, Inc., the official 501(c)(3) nonprofit organization of the team, is proud to receive a $2000 grant from the [Pharmaceutical Research and Manufacturers of America® (PhRMA)](https://www.phrma.org) today.
 
 During a visit joined by PhRMA representatives, MA Senator Mike Rush, MA Representative Paul McMurtry, Westwood Schools Committee members, Westwood Schools Superintendent Emily Parks, and Westwood High School Principal Sean Bevan, the robotics team is grateful for the entire community's support.
 
