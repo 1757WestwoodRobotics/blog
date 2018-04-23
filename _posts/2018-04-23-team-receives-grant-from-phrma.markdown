@@ -6,7 +6,7 @@ tags:
 - sponsor
 - '2018'
 author: Larry Tseng
-image: 
+image: "/uploads/phrmavisit.jpeg"
 excerpt: 'The Westwood High School Robotics Team is proud to receive the #STEMTalentPipeline
   grant from the Pharmaceutical Research and Manufacturers of America® (PhRMA)'
 ---
