@@ -1,5 +1,5 @@
 ---
-title: Announcing the 2019 FIRST competition
+title: Announcing the 2019 FIRST Competition Themes!
 date: 2018-05-14 19:58:00 -04:00
 ---
 
