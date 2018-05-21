@@ -7,7 +7,7 @@ tags:
 author: Michael Serratore
 image: "/uploads/DeanlistNE.jpg"
 excerpt: Captain Larry Tseng wins the Dean's List Finalist Award at New England District
-  Championships
+  Championship
 ---
 
 ![DeanlistNE.jpg](/uploads/DeanlistNE.jpg)
