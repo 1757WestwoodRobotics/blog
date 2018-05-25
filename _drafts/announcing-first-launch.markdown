@@ -2,7 +2,7 @@
 title: Announcing FIRST Launch 2019!
 date: 2018-05-14 19:58:00 -04:00
 author: Michael Serratore
-image: 
+image: "/uploads/firstlaunch2019.jpg"
 excerpt: 'Get ready for #FIRSTLaunch2019! #AllSystemsGo'
 ---
 
