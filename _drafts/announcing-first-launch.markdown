@@ -4,7 +4,7 @@ date: 2018-05-14 19:58:00 -04:00
 author: Michael Serratore
 ---
 
-We are excited to hear about next year's space-themed *FIRST* robotics programs! For the 50-year anniversary after the first moon landing in 1969, FIRST is celebrating with a tribute to space and space exploration. We're ready to get fully involved with costumes, designs, posters, and much more next year. The FIRST Robotics Competition challenge that we will be competing in is called "Destination: Deep Space". 3...2...1...LIFTOFF! #AllSystemsGo
+We are excited to hear about next year's space-themed *FIRST* robotics programs! For the 50th-year anniversary of the first moon landing in 1969, *FIRST* is celebrating with a tribute to space and space exploration. We're ready to get fully involved with costumes, designs, posters, and much more next year. The *FIRST* Robotics Competition challenge that we will be competing in will be called "Destination: Deep Space". #AllSystemsGo
 
 ![firstlaunch2019.jpg](/uploads/firstlaunch2019.jpg)
 
