@@ -1,5 +1,5 @@
 ---
-title: Westwood Robotics Go-Kart
+title: Go-Kart Project
 date: 2018-05-24 21:07:00 -04:00
 Author: Michael Serratore
 ---
