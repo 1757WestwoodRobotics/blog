@@ -2,6 +2,9 @@
 title: Go-Kart Project
 date: 2018-05-24 21:07:00 -04:00
 author: Michael Serratore
+image: "/uploads/IMG_8108.jpg"
+excerpt: The go-kart has two pneumatic wheels in the back, two omni wheels in the
+  front for easy turning, and four CIM motors
 ---
 
-For some extra practice with electronics, design, and programming, our team decided to build a go-kart. The go-kart has two pneumatic wheels in the back, two omni wheels in the front for ease with turning, and four CIM motors. The go-kart can easily support around 200 pounds. The design has a back and foot rest, and is controlled by a flight stick in the standard arcade drive (one stick for both forward/backwards and turning).
+Because the Westwood Robotics Team has been done with competitions for a while, we have been looking for a project to work on. For some extra practice with electronics, design, and programming, our team has decided to build a go-kart. The go-kart has two pneumatic wheels in the back, two omni wheels in the front for easy turning, and four CIM motors. It can support around 200 pounds, has a back and footrest, and is controlled by a flight stick in the standard arcade drive (one joystick for both forward/backwards and turning).
