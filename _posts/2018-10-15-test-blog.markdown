@@ -5,6 +5,7 @@ tags:
 - Testing
 author: Sean Lendrum
 excerpt: this is an excerpt
+image: "/uploads/Screen%20Shot%202018-09-21%20at%203.22.02%20PM-fcd89a.png"
 ---
 
 This is a test post to try out siteleaf.
