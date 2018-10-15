@@ -1,0 +1,10 @@
+---
+title: Test Blog
+date: 2018-10-15 14:29:00 -04:00
+tags:
+- Testing
+author: Sean Lendrum
+excerpt: this is an excerpt
+---
+
+This is a test post to try out siteleaf.
