@@ -22,3 +22,4 @@ theme: minima
 plugins:
 - jekyll-feed
 show_excerpts: true
+google_analytics: UA-125090976-2
