@@ -4,7 +4,7 @@ date: 2018-09-26 14:00:00 -04:00
 tags:
 - '2018'
 author: Wednesday, September 26th
-Field name: Our first 2018 meeting 9/26
+caption: Our first 2018 meeting 9/26
 Image: "/uploads/DoDNjUaU0AABqoP.jpg"
 ---
 
