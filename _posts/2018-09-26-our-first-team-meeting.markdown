@@ -3,8 +3,8 @@ title: Our First Team Meeting
 date: 2018-09-26 14:00:00 -04:00
 tags:
 - '2018'
-author: Wednesday, September 26th
-caption: Our first 2018 meeting 9/26
+author: Rachel Marcus
+caption: Our first 2018 meeting
 image: "/uploads/DoDNjUaU0AABqoP.jpg"
 ---
 
