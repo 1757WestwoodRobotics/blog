@@ -4,7 +4,7 @@ date: 2018-09-26 14:00:00 -04:00
 tags:
 - '2018'
 author: Rachel Marcus
-caption: Our first 2018 meeting
+excerpt: Our first 2018 meeting
 image: "/uploads/DoDNjUaU0AABqoP.jpg"
 ---
 
