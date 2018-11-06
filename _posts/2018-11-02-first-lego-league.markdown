@@ -1,6 +1,6 @@
 ---
 title: FLL Scrimmage 2018
-date: 2018-11-05 21:12:00 -05:00
+date: 2018-11-02 21:12:00 -04:00
 author: Rachel Marcus
 excerpt: First Lego League Scrimmage at the Middle School 2018
 image: "/uploads/IMG_0970.JPG"
