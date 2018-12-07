@@ -1,6 +1,10 @@
 ---
 title: STEM Fair 2018
 date: 2018-12-06 14:21:00 -05:00
-Author: Rachel Marcus
+author: Rachel Marcus
+excerpt: Westwood Highschools Stem Fair 2018
+image: "/uploads/IMG_1158.JPG"
 ---
 
+On December 6th Westwood Highschool had its first stem fair that took place in the faculty lounge. The science elective Anatomy had booth at the fair as well as the clubs: BioBiulders, Science team, Marine biology, and Robotics.
+[IMG_6062.JPG](/uploads/IMG_6062.JPG)
