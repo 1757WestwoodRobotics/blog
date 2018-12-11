@@ -1,5 +1,5 @@
 ---
-title: STEM Fair 2018
+title: STEM Fair
 date: 2018-12-06 14:21:00 -05:00
 author: Rachel Marcus
 excerpt: Westwood Highschools Stem Fair 2018
