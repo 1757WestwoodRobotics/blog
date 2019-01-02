@@ -11,4 +11,4 @@ The Westwood Robotics team held their first Pasta Dinner fundraiser complete wit
 ![IMG_6086-d3cff7.JPG](/uploads/IMG_6086-d3cff7.JPG)
 ![unnamed.jpg](/uploads/unnamed.jpg)
 ![Screen Shot 2018-12-17 at 8.13.21 PM.png](/uploads/Screen%20Shot%202018-12-17%20at%208.13.21%20PM.png)
-[IMG-1314.JPG](/uploads/IMG-1314.JPG)
+![IMG-1314.JPG](/uploads/IMG-1314.JPG)
