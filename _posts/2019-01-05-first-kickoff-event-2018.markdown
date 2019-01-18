@@ -1,7 +1,6 @@
 ---
 title: First Kickoff Event 2019
 date: 2019-01-05 12:25:00 -05:00
-published: false
 author: Rachel Marcus
 excerpt: On January 5th, 2019 the robotics team held its first kickoff event for the
   2019 build season.
