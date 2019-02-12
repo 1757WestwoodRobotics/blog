@@ -2,7 +2,10 @@
 title: February Newsletter
 date: 2019-02-12 17:37:00 -05:00
 author: Larry Tseng
-excerpt: 
+excerpt: Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve been
+  working hard, putting long hours into designing, building, programming, and accomplishing
+  business tasks.
+image: "/uploads/bb5c06b9782f03ca80c1ab9992359e6158b4875b.png"
 ---
 
 February 5, 2019 — Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve been working hard, putting long hours into designing, building, programming, and accomplishing business tasks. This year, we’ve made huge strides in CAD and major advances in computer vision and programming.
