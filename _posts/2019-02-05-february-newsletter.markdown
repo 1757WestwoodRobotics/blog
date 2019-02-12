@@ -63,14 +63,3 @@ Like all optional workshops, these are recommended, so please attend if you are 
 Food signups are always appreciated and are available [here](https://dmanalytics2.com/click?u=https%3A%2F%2Fwww.signupgenius.com%2Fgo%2F70a094ea8a723a1fe3-build&i=6&d=RxmbRUeRR4uSosOn9Ik4kA&e=larry%40whsrobotics.org&a=D2SFn8uNRRGm3pr1maGcSw). (Special thanks to all those who have brought food or drinks previously!)
 
 ![a6b4c3661724a222304771ab481bdc30f3081099.png](/uploads/a6b4c3661724a222304771ab481bdc30f3081099.png)
-
-
-
-
-Larry Tseng
-
-
-Westwood Robotics
-
-
-[larry@whsrobotics.org](mailto:larry@whsrobotics.org)
