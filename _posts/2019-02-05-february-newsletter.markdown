@@ -1,6 +1,6 @@
 ---
 title: February Newsletter
-date: 2019-02-12 17:37:00 -05:00
+date: 2019-02-05 17:37:00 -05:00
 author: Larry Tseng
 excerpt: Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve been
   working hard, putting long hours into designing, building, programming, and accomplishing
