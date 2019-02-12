@@ -40,15 +40,10 @@ Sun. 8 AM - 6 PM
 ### February Vacation Schedule (dates and times will be subject to weather)
 
 * Saturday, 2/16 – 9 AM - 6 PM
-
 * Sunday, 2/17 – 9 AM - 6 PM
-
 * Monday, 2/18 – 9 AM - 6 PM
-
 * Tuesday, 2/19 – 9 AM - **10 PM** (note the extension for Stop Build Day)
-
 * Saturday, 2/23 – 9 AM - 6 PM
-
 * Sunday, 2/24 – 9 AM - 6 PM
 
 Like all optional workshops, these are recommended, so please attend if you are able to. Our [website calendar](https://dmanalytics2.com/click?u=https%3A%2F%2Fwhsrobotics.org%2F%23calendar&i=5&d=RxmbRUeRR4uSosOn9Ik4kA&e=larry%40whsrobotics.org&a=D2SFn8uNRRGm3pr1maGcSw) will always have the latest information regarding the schedule.
@@ -61,7 +56,7 @@ Best,
 
 Larry
 
---\
-Larry Tseng\
-Westwood Robotics\
+
+Larry Tseng
+Westwood Robotics
 [larry@whsrobotics.org](mailto:larry@whsrobotics.org)
