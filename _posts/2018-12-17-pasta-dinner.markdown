@@ -1,7 +1,8 @@
 ---
 title: Pasta Dinner
 date: 2018-12-17 14:22:00 -05:00
-excerpt: Westwood Robotics Pasta Dinner
+excerpt: Families, teachers, and other members of the community attended our first
+  dinner to help the team raise money and awareness to robotics.
 author: Rachel Marcus
 image: "/uploads/IMG_6086-d3cff7.JPG"
 ---
