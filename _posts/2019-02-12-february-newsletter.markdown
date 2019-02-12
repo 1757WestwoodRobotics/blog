@@ -8,7 +8,7 @@ excerpt: Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve 
 image: "/uploads/bb5c06b9782f03ca80c1ab9992359e6158b4875b.png"
 ---
 
-February 5, 2019 — Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve been working hard, putting long hours into designing, building, programming, and accomplishing business tasks. This year, we’ve made huge strides in CAD and major advances in computer vision and programming.
+Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve been working hard, putting long hours into designing, building, programming, and accomplishing business tasks. This year, we’ve made huge strides in CAD and major advances in computer vision and programming.
 
 Congratulations to Dwight Meglan, one of our lead mentors, for being our team’s nominee for the Woodie Flowers Finalist Award, and Cortina Barbieri (junior) and Billy Girard (sophomore) for being nominated as Dean’s List Award Semi-Finalists! Their time, effort, and leadership all play a huge role in making our team successful. In addition, thank you to those who weren’t nominated for your great work and contributions!
 
