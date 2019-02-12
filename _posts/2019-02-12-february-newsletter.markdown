@@ -10,7 +10,7 @@ image: "/uploads/bb5c06b9782f03ca80c1ab9992359e6158b4875b.png"
 
 Ever since the FIRST Robotics Competition Kickoff 5 weeks ago, we’ve been working hard, putting long hours into designing, building, programming, and accomplishing business tasks. This year, we’ve made huge strides in CAD and major advances in computer vision and programming.
 
-Congratulations to Dwight Meglan, one of our lead mentors, for being our team’s nominee for the Woodie Flowers Finalist Award, and Cortina Barbieri (junior) and Billy Girard (sophomore) for being nominated as Dean’s List Award Semi-Finalists! Their time, effort, and leadership all play a huge role in making our team successful. In addition, thank you to those who weren’t nominated for your great work and contributions!
+Congratulations to **Dwight Meglan**, one of our lead mentors, for being our team’s nominee for the Woodie Flowers Finalist Award, and **Cortina Barbieri** (junior) and **Billy Girard** (sophomore) for being nominated as Dean’s List Award Semi-Finalists! Their time, effort, and leadership all play a huge role in making our team successful. In addition, thank you to those who weren’t nominated for your great work and contributions!
 
 ![bb5c06b9782f03ca80c1ab9992359e6158b4875b.png](/uploads/bb5c06b9782f03ca80c1ab9992359e6158b4875b.png)
 Online CAD (Computer Aided Design) of our 2019 Destination: Deep Space robot.
@@ -40,10 +40,15 @@ Sun. 8 AM - 6 PM
 ### February Vacation Schedule (dates and times will be subject to weather)
 
 * Saturday, 2/16 – 9 AM - 6 PM
+
 * Sunday, 2/17 – 9 AM - 6 PM
+
 * Monday, 2/18 – 9 AM - 6 PM
+
 * Tuesday, 2/19 – 9 AM - **10 PM** (note the extension for Stop Build Day)
+
 * Saturday, 2/23 – 9 AM - 6 PM
+
 * Sunday, 2/24 – 9 AM - 6 PM
 
 Like all optional workshops, these are recommended, so please attend if you are able to. Our [website calendar](https://dmanalytics2.com/click?u=https%3A%2F%2Fwhsrobotics.org%2F%23calendar&i=5&d=RxmbRUeRR4uSosOn9Ik4kA&e=larry%40whsrobotics.org&a=D2SFn8uNRRGm3pr1maGcSw) will always have the latest information regarding the schedule.
@@ -55,7 +60,6 @@ Food signups are always appreciated and are available [here](https://dmanalytics
 Best,
 
 Larry
-
 
 Larry Tseng
 Westwood Robotics
