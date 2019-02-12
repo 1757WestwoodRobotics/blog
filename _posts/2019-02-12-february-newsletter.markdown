@@ -22,17 +22,24 @@ Events are all open to the public and free to attend! We attend two qualifying d
 Student registration and forms must be completed at [firstinspires.org](http://firstinspires.org) AND students must fill out the [following form](https://goo.gl/forms/9omMv8sp0xM5Bul22) so we can take care of transportation and logistics (parent signature required for students under 18).
 
 **North Shore District Event (3/15-3/17)**
+
 Reading Memorial HS, Reading, MA
 
 Fri. 5-10 PM
+
 Sat. 8 AM - 8 PM
+
 Sun. 8 AM - 6 PM
 
+
 **UNH District Event (3/29-3/31)**
+
 UNH, Durham, NH
 
 Fri. 5-10 PM
+
 Sat. 8 AM - 8 PM
+
 Sun. 8 AM - 6 PM
 
 ![c77142cc3a11906f44019ba505a440347d2e539a.jpeg](/uploads/c77142cc3a11906f44019ba505a440347d2e539a.jpeg)
@@ -62,5 +69,9 @@ Best,
 Larry
 
 Larry Tseng
+
+
 Westwood Robotics
+
+
 [larry@whsrobotics.org](mailto:larry@whsrobotics.org)
