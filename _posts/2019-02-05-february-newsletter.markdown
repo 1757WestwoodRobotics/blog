@@ -64,9 +64,8 @@ Food signups are always appreciated and are available [here](https://dmanalytics
 
 ![a6b4c3661724a222304771ab481bdc30f3081099.png](/uploads/a6b4c3661724a222304771ab481bdc30f3081099.png)
 
-Best,
 
-Larry
+
 
 Larry Tseng
 
