@@ -3,8 +3,6 @@ title: Post-Competition Update
 date: 2019-04-05 21:17:00 -04:00
 ---
 
-April 5, 2019
-
 Dear team and community,
 
 Wow! What an exhilarating way to finish our matches at our UNH district event last weekend! Our robot, Rampothy, finished 21st out of 40 teams, and we were selected to compete in the quarterfinals where we made history successfully executing a challenging plan – one never seen before in the history of the FIRST Robotics Competition. Kudos to each drive team on our alliance!
@@ -69,7 +67,9 @@ Submission Deadline (no exceptions): May 4, 2019
 
 To be eligible for the Presidential Volunteer Service Award, please submit your 2018-19 service logs to larry@whsrobotics.org by May 12. Students, please consult the documents in the Westwood Robotics Team Drive for further instruction.
 
-![IMG_2177.jpeg](/uploads/IMG_2177.jpeg)![IMG_20190316_113456863.jpg](/uploads/IMG_20190316_113456863.jpg)
+![IMG_2177.jpeg](/uploads/IMG_2177.jpeg)
+
+![IMG_20190316_113456863.jpg](/uploads/IMG_20190316_113456863.jpg)
 
 ### End of Year Banquet
 
