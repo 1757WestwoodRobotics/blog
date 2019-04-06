@@ -9,16 +9,16 @@ Wow! What an exhilarating way to finish our matches at our UNH district event la
 
 The hard work and crucial contributions of every talented student and mentor on our team throughout the build and competition seasons have risen us to the top. Although we sacrificed our hatch mechanism midway through the event, we quickly adapted to our new game plan and devoted all our efforts toward our ramp feature, enticing the masses at the event and online.
 
-    2019 FRC NE UNH RAMPception QF2-2 Endgame    
+![Screen Shot 2019-04-05 at 9.26.25 PM.png](/uploads/Screen%20Shot%202019-04-05%20at%209.26.25%20PM.png)
 
 The endgame of our final competitive match of 2019. Watch the left side of the field!
 
 ### Video Links
 
 
-2019 Robot Reveal Video: https://youtu.be/hJtQyOgWhIU
+2019 Robot Reveal Video: [https://youtu.be/hJtQyOgWhIU](https://youtu.be/hJtQyOgWhIU)
 
-Chairman’s Award Submission Video: https://youtu.be/-B8b167Fkpc
+Chairman’s Award Submission Video: [https://youtu.be/-B8b167Fkpc](https://youtu.be/-B8b167Fkpc)
 
 ### Offseason Plan / Projects
 
@@ -42,7 +42,7 @@ Our playoffs alliance at the UNH District Event – Teams 3597 (Robo-Rangers), 1
 ### Leadership Application Form
 
 
-Students who are looking to apply for a leadership position for the 2019-20 school year should fill out the following form: https://forms.gle/ZQEmr1rXsMcCFmNy8 (sign in required). Please make sure all answers are accurate and complete prior to submitting the form! Any remaining open positions will be available again in the Fall. Refer to the Team Handbook for more details.
+Students who are looking to apply for a leadership position for the 2019-20 school year should fill out the following form: [https://forms.gle/ZQEmr1rXsMcCFmNy8](https://forms.gle/ZQEmr1rXsMcCFmNy8) (sign in required). Please make sure all answers are accurate and complete prior to submitting the form! Any remaining open positions will be available again in the Fall. Refer to the Team Handbook for more details.
 
 Open Positions:
 
@@ -80,9 +80,9 @@ To keep with tradition, we will be hosting a team banquet late-May to wrap up th
 
 ![sponsors.png](/uploads/sponsors.png)
 
-I want to especially thank our continued support from dedicated sponsors, mentors, donors, and parents. We appreciate everything that you do for us as none of this would be remotely possible without your help. If you are interested in making a tax-deductible donation or sponsorship to help fund our programs, please visit this link or email contact@whsrobotics.org.
+I want to especially thank our continued support from dedicated sponsors, mentors, donors, and parents. We appreciate everything that you do for us as none of this would be remotely possible without your help. If you are interested in making a tax-deductible donation or sponsorship to help fund our programs, please visit [this link](https://whsrobotics.org/community/sponsors/Westwood%20Robotics%20Sponsorship%20Information%202018-19.pdf) or email contact@whsrobotics.org.
 
-If you have any questions or comments, please feel free to send me an email or visit our website at https://whsrobotics.org! Our blog is available at https://blog.whsrobotics.org.
+If you have any questions or comments, please feel free to send me an email or visit our website at [https://whsrobotics.org](https://whsrobotics.org)! Our blog is available at [https://blog.whsrobotics.org](https://blog.whsrobotics.org).
 
 Best,
 
