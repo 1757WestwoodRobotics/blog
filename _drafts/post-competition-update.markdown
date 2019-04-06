@@ -9,7 +9,7 @@ Wow! What an exhilarating way to finish our matches at our UNH district event la
 
 The hard work and crucial contributions of every talented student and mentor on our team throughout the build and competition seasons have risen us to the top. Although we sacrificed our hatch mechanism midway through the event, we quickly adapted to our new game plan and devoted all our efforts toward our ramp feature, enticing the masses at the event and online.
 
-![Screen Shot 2019-04-05 at 9.26.25 PM.png](/uploads/Screen%20Shot%202019-04-05%20at%209.26.25%20PM.png)
+[![Screen Shot 2019-04-05 at 9.26.25 PM.png](/uploads/Screen%20Shot%202019-04-05%20at%209.26.25%20PM.png)](https://www.youtube.com/watch?v=GxLf-ustTCE&autoplay=1)
 
 The endgame of our final competitive match of 2019. Watch the left side of the field!
 
