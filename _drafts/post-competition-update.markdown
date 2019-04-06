@@ -2,7 +2,9 @@
 title: Post-Competition Update
 date: 2019-04-05 21:17:00 -04:00
 author: Larry Tseng
-excerpt: 
+excerpt: What an exhilarating way to finish our matches at our UNH district event
+  last weekend! Our robot, Rampothy, finished 21st out of 40 teams, and we were selected
+  to compete in the quarterfinals.
 image: "/uploads/DSC_7381.JPG"
 ---
 
