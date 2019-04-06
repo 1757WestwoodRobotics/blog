@@ -48,10 +48,15 @@ Students who are looking to apply for a leadership position for the 2019-20 scho
 
 Open Positions:
 
-Captain
-Vice-Captain
-Treasurer
-Secretary
+* Captain
+
+* Vice-Captain
+
+* Treasurer
+
+* Secretary
+  
+
 Essay questions:
 
 Great leaders inspire, teach, lead, and think critically. In a short essay, describe how you fit the description of a strong leader. (100 words min.)
@@ -63,6 +68,8 @@ Submission Deadline (no exceptions): May 4, 2019
 
 
 To be eligible for the Presidential Volunteer Service Award, please submit your 2018-19 service logs to larry@whsrobotics.org by May 12. Students, please consult the documents in the Westwood Robotics Team Drive for further instruction.
+
+![IMG_2177.jpeg](/uploads/IMG_2177.jpeg)![IMG_20190316_113456863.jpg](/uploads/IMG_20190316_113456863.jpg)
 
 ### End of Year Banquet
 
