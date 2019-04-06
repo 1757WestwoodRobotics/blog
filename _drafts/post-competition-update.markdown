@@ -27,12 +27,17 @@ Chairman’s Award Submission Video: https://youtu.be/-B8b167Fkpc
 
 With the conclusion of our competitive season, we will wrap up some loose ends and work on a few cool projects:
 
-Installing the new hatch mechanism
-Go-kart v2
-Fixing the T-shirt Cannon
-Battery Cart
-Lab cleanup and organization (starting Wednesday)
-Students, please contact Sean Lendrum or Billy Girard for more details about ongoing projects.
+* Installing the new hatch mechanism
+
+* Go-kart v2
+
+* Fixing the T-shirt Cannon
+
+* Battery Cart
+
+* Lab cleanup and organization (starting Wednesday)
+
+![DSC_7381.JPG](/uploads/DSC_7381.JPG)
 
 Our playoffs alliance at the UNH District Event – Teams 3597 (Robo-Rangers), 1757 (Wolverines), and 5962 (perSEVERE)
 
@@ -65,6 +70,8 @@ To be eligible for the Presidential Volunteer Service Award, please submit your 
 To keep with tradition, we will be hosting a team banquet late-May to wrap up the 2018-19 season for families and the community. Any outstanding balances (for food or apparel) must be paid before attending. More details to come!
 
 ### Sponsors
+
+![sponsors.png](/uploads/sponsors.png)
 
 I want to especially thank our continued support from dedicated sponsors, mentors, donors, and parents. We appreciate everything that you do for us as none of this would be remotely possible without your help. If you are interested in making a tax-deductible donation or sponsorship to help fund our programs, please visit this link or email contact@whsrobotics.org.
 
