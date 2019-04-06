@@ -5,7 +5,7 @@ author: Larry Tseng
 excerpt: What an exhilarating way to finish our matches at our UNH district event
   last weekend! Our robot, Rampothy, finished 21st out of 40 teams, and we were selected
   to compete in the quarterfinals.
-image: "/uploads/DSC_7381.JPG"
+image: "/uploads/alliance_cropped.jpg"
 ---
 
 Dear team and community,
