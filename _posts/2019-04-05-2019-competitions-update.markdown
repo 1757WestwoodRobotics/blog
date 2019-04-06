@@ -1,5 +1,5 @@
 ---
-title: Post-Competition Update
+title: 2019 Competitions Update
 date: 2019-04-05 21:17:00 -04:00
 author: Larry Tseng
 excerpt: What an exhilarating way to finish our matches at our UNH district event
