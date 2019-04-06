@@ -71,9 +71,17 @@ I want to especially thank our continued support from dedicated sponsors, mentor
 If you have any questions or comments, please feel free to send me an email or visit our website at https://whsrobotics.org! Our blog is available at https://blog.whsrobotics.org.
 
 Best,
+
+
 Larry
 
 --
+
+
 Larry Tseng
+
+
 Westwood Robotics
+
+
 larry@whsrobotics.org
