@@ -1,6 +1,9 @@
 ---
 title: Post-Competition Update
 date: 2019-04-05 21:17:00 -04:00
+author: Larry Tseng
+excerpt: 
+image: "/uploads/DSC_7381.JPG"
 ---
 
 Dear team and community,
